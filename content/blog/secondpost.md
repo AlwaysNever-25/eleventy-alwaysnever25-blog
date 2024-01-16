@@ -1,17 +1,30 @@
 ---
-title: This is my second post with a much longer title.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: Day 2.
+description: 2024 Daily Blogging Project's Day Two Post
+date: 2024-01-02
 tags:
-  - number 2
+  - Daily
+  - January
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Learnt a bit about how to spruce up the website. Thank you, mentor.
 
-## Section Header
+Contracts are starting to shape up. I'll share my calculation on the EXP I'm getting here.
 
-<a href="/blog/firstpost/">First post</a>
-<a href="/blog/thirdpost/">Third post</a>
+```
+Base Contract : 500XP (First 60 chapters)
+Staff Contract : 700XP (Season 1)
+Overachiever (Base) : 50XP (next 60 chapters) + 50XP (next 60 chapters, currently it's 180 chapters)
+Overachiever (Staff) : 50XP (Season 2) + 50XP (Season 3) + 50XP? (Movie? not sure about this)
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Bounties:
+S-Rank (Darkest Dungeon) : 1000XP (main objective) + 250XP (additional objective)
+C-Rank (Rise of Tomb Raider) : 550XP (main objective) + 250XP (additional objective)
+D-Rank (The Letter) : 400XP (main objective)
+E-Rank (Magus of the Library) : 100XP (main objective)
+    
+Total: 
+4000XP 
+(or 3950XP if Movies not count)
+(or 3500XP if I don't finish additional objectives)
+(or 3450XP if Movies not count and I don't finish additional objectives)
+```

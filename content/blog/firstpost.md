@@ -1,26 +1,17 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Day 1.
+description: 2024 Daily Blogging Project's Day One Post
+date: 2024-01-01
 tags:
-  - another tag
+  - Daily
+  - January
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Here we come, 2024.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Honestly, I only thought of this project in the back of my mind. Some sort of reprise of the unreleased (maybe I'll release it here somewhat) Two Thousand Twenty Words project.
 
-## Section Header
+I do know much better now though. How it's impossible for me to really do it daily, but I can try.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+This day, I spent most of it in the house that's not my home, watching fireworks from high up and sleeping in an air mattress. The classic experience of "camping" without actually getting bitten by mosquitos.
 
-```diff-js
- // this is a command
- function myCommand() {
-+  let counter = 0;
--  let counter = 1;
-   counter++;
- }
-
- // Test with a line break above this line.
- console.log('Test');
-```
+Then we got home and sleep even more. Oh, and I also read mangas. Specifically starting on *Boku no Kokoro no Yabai Yatsu*, or *The Dangers in My Heart*. Fluffy series, quirky pairing. I'll be watching the anime for this soon, after I catch up. Season 2 incoming.
