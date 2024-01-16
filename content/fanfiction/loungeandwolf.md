@@ -2,7 +2,6 @@
 title: "Lounge and Wolf"
 description: "In this tale, a shapeshifting wolf meets a drunk boy."
 date: Last Modified
-draft: true
 tags:
   - Story
   - Fanfiction
