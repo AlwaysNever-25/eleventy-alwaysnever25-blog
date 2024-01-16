@@ -1,6 +1,6 @@
 ---
 title: Day 4.
-description: 2024 Daily Blogging Project's Day Four Post
+description: ...where Al is sick.
 date: 2024-01-04
 tags: 
   - Daily

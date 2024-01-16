@@ -1,6 +1,6 @@
 ---
 title: Day 2.
-description: 2024 Daily Blogging Project's Day Two Post
+description: ...where Al learn how to count XPs.
 date: 2024-01-02
 tags:
   - Daily

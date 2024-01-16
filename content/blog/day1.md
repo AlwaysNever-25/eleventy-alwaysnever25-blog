@@ -1,6 +1,6 @@
 ---
 title: Day 1.
-description: 2024 Daily Blogging Project's Day One Post
+description: ...where Al begin another new "New Years" project.
 date: 2024-01-01
 tags:
   - Daily

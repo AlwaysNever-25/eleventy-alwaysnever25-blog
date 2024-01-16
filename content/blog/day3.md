@@ -1,6 +1,6 @@
 ---
 title: Day 3.
-description: 2024 Daily Blogging Project's Day Three Post
+description: ...where Al ramble about all the series he's reading this year.
 date: 2024-01-03
 tags:
   - Daily
