@@ -1,6 +1,6 @@
 ---
 title: Day 6.
-description: ...where Al 
+description: ...where Al got hoodwinked by deadlines and watch Bale-Batman.
 date: 2024-01-06
 tags: 
   - Daily

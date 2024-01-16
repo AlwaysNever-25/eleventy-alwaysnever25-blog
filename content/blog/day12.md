@@ -1,6 +1,6 @@
 ---
 title: Day 12.
-description: ...where Al 
+description: ...where Al watched an ecchi anime... and The Dark Knight.
 date: 2024-01-12
 tags: 
   - Daily

@@ -1,6 +1,6 @@
 ---
 title: Day 14.
-description: ...where Al 
+description: ...where Al tried Netlify.
 date: 2024-01-14
 tags: 
   - Daily

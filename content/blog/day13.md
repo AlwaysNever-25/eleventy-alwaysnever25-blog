@@ -1,6 +1,6 @@
 ---
 title: Day 13.
-description: ...where Al 
+description: ...where Al is sick, again.
 date: 2024-01-13
 tags: 
   - Daily

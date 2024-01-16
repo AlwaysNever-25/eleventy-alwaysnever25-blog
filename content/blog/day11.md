@@ -1,6 +1,6 @@
 ---
 title: Day 11.
-description: ...where Al 
+description: ...where Al gets down, but forces himself to watch an anime.
 date: 2024-01-11
 tags: 
   - Daily

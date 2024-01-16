@@ -1,6 +1,6 @@
 ---
 title: Day 8.
-description: ...where Al 
+description: ...where Al rant about Magus of the Library and other mangas/animes he read/watch for the past week, and others he will get to.
 date: 2024-01-08
 tags: 
   - Daily

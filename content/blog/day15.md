@@ -1,6 +1,6 @@
 ---
 title: Day 15.
-description: ...where Al 
+description: ...where Al rambled during his commute.
 date: 2024-01-15
 tags: 
   - Daily

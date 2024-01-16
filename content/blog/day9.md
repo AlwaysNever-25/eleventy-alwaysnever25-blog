@@ -1,6 +1,6 @@
 ---
 title: Day 9.
-description: ...where Al 
+description: ...where Al finished a romcom manga.
 date: 2024-01-09
 tags: 
   - Daily

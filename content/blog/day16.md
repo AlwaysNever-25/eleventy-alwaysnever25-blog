@@ -1,6 +1,6 @@
 ---
 title: Day 16.
-description: ...where Al 
+description: ...where Al actually started using this blog for this whole project.
 date: Last Modified
 tags: 
   - Daily

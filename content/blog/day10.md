@@ -1,6 +1,6 @@
 ---
 title: Day 10.
-description: ...where Al 
+description: ...where Al gets melancholic about old YouTubers.
 date: 2024-01-10
 tags: 
   - Daily
