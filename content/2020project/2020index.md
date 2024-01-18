@@ -3,6 +3,7 @@ layout: layouts/home.njk
 eleventyNavigation:
   key: Two Thousand Twenty Words
   order: 3
+eleventyExcludeFromCollections: true
 ---
 # Two Thousand Twenty Words
 
