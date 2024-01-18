@@ -1,6 +1,6 @@
 module.exports = {
 	tags: [
-		"posts"
+		"2020posts"
 	],
 	"layout": "layouts/post.njk",
 };
