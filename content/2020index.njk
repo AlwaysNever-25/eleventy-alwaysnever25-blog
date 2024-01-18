@@ -5,11 +5,11 @@ eleventyNavigation:
   order: 3
 ---
 
-{% set postsCount = collections.2020posts | length %}
+{% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
 
-{% set postslist = collections.2020posts | head(-1 * numberOfLatestPostsToShow) %}
+{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
 
