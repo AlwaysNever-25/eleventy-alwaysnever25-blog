@@ -4,7 +4,7 @@ description: ...where Al begin another new "New Years" project.
 date: 2024-01-01
 tags:
   - Daily
-  - January
+  - January 2024
 ---
 Here we come, 2024.
 

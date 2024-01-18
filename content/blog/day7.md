@@ -4,7 +4,7 @@ description: ...where Al was busy by day, charmed by magic by night.
 date: 2024-01-07
 tags: 
   - Daily
-  - January
+  - January 2024
 ---
 I was busy the whole day, driving for my aunt's family to buy some things, and I was back by 5pm.
 

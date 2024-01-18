@@ -4,7 +4,7 @@ description: ...where Al actually started releasing his old Two Thousand Twenty 
 date: Last Modified
 tags: 
   - Daily
-  - January
+  - January 2024
 ---
 
 Starting to work on putting my Two Thousand Twenty Words project [here](https://alwaysnever25-blog.netlify.app/tags/two-thousand-twenty-words/). I also considered putting up stories here, stories that might be a bit undercooked though. I'm keeping big, potentially working out story on my main website.

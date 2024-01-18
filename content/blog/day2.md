@@ -4,7 +4,7 @@ description: ...where Al learn how to count XPs.
 date: 2024-01-02
 tags:
   - Daily
-  - January
+  - January 2024
 ---
 Learnt a bit about how to spruce up the website. Thank you, mentor.
 

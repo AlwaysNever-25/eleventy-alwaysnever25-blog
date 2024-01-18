@@ -4,7 +4,7 @@ description: ...where Al is sick, again.
 date: 2024-01-13
 tags: 
   - Daily
-  - January
+  - January 2024
 ---
 I spent the day sick again. I can't move my body, and it's all hot and stuff. The headache is back in force this time.
 

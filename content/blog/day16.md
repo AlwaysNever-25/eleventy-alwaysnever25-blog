@@ -4,7 +4,7 @@ description: ...where Al actually started using this blog for this whole project
 date: Last Modified
 tags: 
   - Daily
-  - January
+  - January 2024
 ---
 Okay so I tinkered with Eleventy for a bit yesterday, and decided to just get a example blog from Github that basically covers all the things I want in a blog, including dates and tags, and here I am.
 

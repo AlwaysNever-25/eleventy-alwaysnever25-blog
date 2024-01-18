@@ -4,7 +4,7 @@ description: ...where Al watched an ecchi anime... and The Dark Knight.
 date: 2024-01-12
 tags: 
   - Daily
-  - January
+  - January 2024
 ---
 Watched *Mato Seihei no Slave* and the sixth episode of *Dead Mount Death Play* today. Both are not as good as I'd like them to be, but not enough for me to drop them.
 

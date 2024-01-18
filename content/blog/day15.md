@@ -4,7 +4,7 @@ description: ...where Al rambled during his commute.
 date: 2024-01-15
 tags: 
   - Daily
-  - January
+  - January 2024
 ---
 First day back to university. That means... random thought during my commute back home time!
 

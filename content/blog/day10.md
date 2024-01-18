@@ -4,7 +4,7 @@ description: ...where Al gets melancholic about old YouTubers.
 date: 2024-01-10
 tags: 
   - Daily
-  - January
+  - January 2024
 ---
 MatPat's retiring. That's... pretty sad to think about. It's been more than half a decade since I know him, more than the time I know Tom Scott (which was during COVID), and this was sadder than that.
 
