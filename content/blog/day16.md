@@ -1,7 +1,7 @@
 ---
 title: Day 16.
 description: ...where Al actually started using this blog for this whole project.
-date: Last Modified
+date: 2024-01-16
 tags: 
   - Daily
   - January 2024
