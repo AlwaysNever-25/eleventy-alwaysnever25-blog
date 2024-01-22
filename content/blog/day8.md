@@ -18,32 +18,30 @@ History of this world is layered, intrigue surrounding the power system is tight
 
 Anyway... now that is out of the way, I'll update you on some things. I finally finished *Boku no Kokoro no Yabai Yatsu* anime! It was fluffy up until the last second, and I can't wait to watch the first episode of season 2 as well, but now that I finished this, it became one of many animes this season I'm watching weekly.
 
-    - Frieren cour 2
-    - Solo Leveling
-    - Mato Seihei no Slave
-    - Boku no Kokoro no Yabai Yatsu
++ Frieren cour 2
++ Solo Leveling
++ Mato Seihei no Slave
++ Boku no Kokoro no Yabai Yatsu
     
 This won't be all I'm watching this season though, just the one that is airing. My plans for this season, and probably would be for the rest of the year, is to finish off my planned to watch/planned to read list. For PTW, it includes, in order of personal importance:
 
-    - Zom 100 (last three ep)
-    - Dead Mount Death Play (both part)
-    - 100gf (6/12)
-    - CSM (4/12)
-    - SxF season 2
-    - My Dress Up Darling (2/12)
-    - 86 (both part)
-    - Komi (both season)
-    - Scott Pilgrim Takes Off
-    - Belle (movie)
++ Zom 100 (last three ep)
++ Dead Mount Death Play (both part)
++ 100gf (6/12)
++ CSM (4/12)
++ SxF season 2
++ My Dress Up Darling (2/12)
++ 86 (both part)
++ Komi (both season)
++ Scott Pilgrim Takes Off
++ Belle (movie)
     
 This list will change as I usually don't adhere to a strict list, especially those written down, but instead will impulsively do whatever I want. I really need to fix this, or control it somewhat...
 
 Also, I actually didn't talk about this before but I've been reading mangas as well during these one week, including *Boku no Kokoro no Yabai Yatsu* (which I managed to read up to chapter 100 before starting). Today, I was able to finish off *Watari-kun no xx ga Houkai Sunzen*, which just ended and revealed that it would have an anime adaptation of, probably meaning it'll air sometime this year or early next year. I'll let my Anilist comment on the series be my comment as a whole about the series.
 
-barring two extra chapters, this is basically finished for now. the manga is... very dramatic, 
-and not in a good way either. 
-by the end, I didn't feel as good even after everyone reached their happy ending in a way, 
-I can't really pinpoint my problem with it though.
+> barring two extra chapters, this is basically finished for now. the manga is... very dramatic, and not in a good way either. by the end, I didn't feel as good even after everyone reached their happy ending in a way, I can't really pinpoint my problem with it though.
+
 ...okay I'll elaborate. The thing is, this manga is a romance, a typical triangle between a childhood friend and a prim and proper girlfriend. There was no doubt about it that I was behind Satsuki being the winner, but the way they go about it is pretty... weird. Convoluted? I don't know if it's because of the scanlation that I was served on, but the story just became something I can't get myself invested on...
 
 Well, with that out of the way, Ishihara (the other girl who loses) gets a goddamn makeover after her heart gets broken, and now I don't know who I fucking like anymore... I mean... she wore a CHOKER... it's my weakness...
