@@ -1,7 +1,7 @@
 ---
 title: Day 19.
 description: ...where Al
-date: Last Modified
+date: 2024-01-19
 tags: 
   - Daily
   - January 2024
