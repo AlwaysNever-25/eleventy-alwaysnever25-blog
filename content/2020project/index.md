@@ -1,8 +1,8 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: Two Thousand Twenty Words
-  order: 3
+  key: Two Thousand Twenty Words (2020)
+  order: 4
 eleventyExcludeFromCollections: true
 ---
 # Two Thousand Twenty Words
