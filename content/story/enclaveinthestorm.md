@@ -5,6 +5,7 @@ date: 2020-02-10
 tags:
   - Two Thousand Twenty Words
   - February 2020
+  - Story
 ---
 
 A pen in black stroke the white paper, pure of speck. It stroke and creates words that flows and fill the purity with beauty. The writer sits in the shrouded darkness, the light that aids them fails unexpectedly. The sounds of water hammering down his enclosure accompanied him and his thoughts. There were no one else. They focus on their creation, regarding the darkness and the soft buzz of rain hitting above their location as nothing but unimportant distractions.
