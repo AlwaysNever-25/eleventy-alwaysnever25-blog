@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 eleventyNavigation:
   key: Daily Project (2024)
-  order: 4
+  order: 3
 ---
 
 # Daily Project
