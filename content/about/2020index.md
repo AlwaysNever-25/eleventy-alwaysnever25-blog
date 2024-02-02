@@ -25,5 +25,5 @@ Everything basically kinda petered out during the first few months of the pandem
 
 # Two Thousand Twenty Words Archive
 
-{% set postslist = collections.Two_Thousand_Twenty_Words %}
+{% set postslist = collections.Two%20Thousand%20Twenty%20Words %}
 {% include "postslist.njk" %}
