@@ -21,3 +21,9 @@ Everything basically kinda petered out during the first few months of the pandem
 ## What is Missing Days?
 
 **Missing Days** are days during the project that I didn't write on originally in 2020, but I will fill with some words. It might be something motivational, or something that I remember doing during this particular day that I put in late.
+
+
+# Two Thousand Twenty Words Archive
+
+{% set postslist = collections.Two_Thousand_Twenty_Words %}
+{% include "postslist.njk" %}
