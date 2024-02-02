@@ -1,6 +1,6 @@
 module.exports = {
 	tags: [
-		"posts"
+		"posts", "1000words"
 	],
 	"layout": "layouts/post.njk",
 };
