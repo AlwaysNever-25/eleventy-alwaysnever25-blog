@@ -1,5 +1,5 @@
 ---
-title: Day 33.
+title: Day 32.
 description: ...where Al spend the day resting, coming back to an "old" wiki, and finishing Imosae volume 8.
 date: 2024-02-01
 tags: 
