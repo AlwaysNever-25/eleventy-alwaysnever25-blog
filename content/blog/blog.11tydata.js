@@ -1,6 +1,6 @@
 module.exports = {
 	tags: [
-		"posts", "daily"
+		"posts"
 	],
 	"layout": "layouts/post.njk",
 };

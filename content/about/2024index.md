@@ -13,5 +13,5 @@ Another attempt to write daily for the year of 2024, in the same vein as Two Tho
 
 # Daily Archive
 
-{% set postslist = collections.daily %}
+{% set postslist = collections.Daily %}
 {% include "postslist.njk" %}
