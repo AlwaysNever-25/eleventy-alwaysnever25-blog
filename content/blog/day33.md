@@ -5,21 +5,12 @@ date: 2024-02-02
 tags: 
   - Daily
   - February 2024
+  - Imosae
 ---
 
 I finally decided to read ten more chapters of *Your Throne*. It's a pretty heavy chapter... I usually would be able to binge them, but I find that in such heavy series, it's the matter of mood and how it might dissipate when you are interrupted.
 
-I finished Volume 8 of Imosae. I'll let my anilist comment for it speak for itself:
-
-finished volume 8. Christmas, Miyako cosplaying at Comiket, Itsuki shrine visit with Nayuta, Itsuki's anime adaptation news getting leaked (based on a true story, so based), toki the editor getting bald, Haruto being a manwhore (and the source of that nickname) and going on a date with two girls on the same volume (Chihiro get two art for that Akihabara date, holy shit), the trio of Kaiko, Nayuta, and Miyako moving in together, and Chihiro getting vibrator from Ashley... Itsuki and Nayuta having a hot spring trip...
-
-and in the background, a plot began to form... the new novelists from the award contest are integrating themselves into the world of Light Novels. The author of the ass novel (I will call it that, do not stop me) meets the literal ass illustrator Puriketsu (and somehow became the catalyst of Toki finding out Chihiro is a girl, I will watch that plot point with interest), the samurai author encouraging Toki to become bald, Ui Aioi releases her novel (the first amongst the batch) and stalks bookstores to watch people buying her books (she met Haruto too, and mans are slowly falling for her)... this isn't even all of the authors that are there in the awards...
-
-how can a volume pack so much? And why do I keep saying that after 7 volumes of about a similar amount of content each volume? is this the power of being a professional novelist... can they really just pour this out every three months? This is some crazy shit... it's all slice of life, but it feels like... real? but also fictional? it's all very natural, the inclusion of the ever-growing cast...
-
-I'm not ready for when Itsuki finds out that he has a little sister all along... what would happen? guess I'll find out by keep reading. I'm more than halfway through...
-
-I also finished volume 9 of *Imosae*, and wrote a bit of my thoughts on it on anilist:
+I finished volume 9 of *Imosae*, and wrote a bit of my thoughts on it on anilist:
 
 Finished volume 9 earlier this morning. having TWO characters becoming Itsuki's "little sister" as a catalyst for Chihiro finally blowing up and saying that she is his actual little sister... one of them is an adorable one too... and the other is an older sister who really wanted to have a big brother... damn. this volume is too cute-
 

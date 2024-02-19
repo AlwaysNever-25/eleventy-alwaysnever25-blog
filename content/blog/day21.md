@@ -5,6 +5,7 @@ date: 2024-01-21
 tags: 
   - Daily
   - January 2024
+  - Imosae
 ---
 
 I've worked on something for the last few days. No, not another project. It's just a training assignment for my finals, but it make me forget to update my blog for a bit.

@@ -5,6 +5,7 @@ date: 2024-02-08
 tags: 
   - Daily
   - February 2024
+  - Imosae
 ---
 
 I played the AMQ match today, and it was... exhilirating. I was unable to go to sleep from yesterday, even though I came home near midnight, because I spent the hours training with someone I know on Discord, for AMQ. Honestly, I feel like without those extra time practicing, I would've been cooked in the match.

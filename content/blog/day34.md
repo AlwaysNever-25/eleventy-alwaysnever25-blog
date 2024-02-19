@@ -5,6 +5,7 @@ date: 2024-02-03
 tags: 
   - Daily
   - February 2024
+  - Imosae
 ---
 
 Today I spent the day mostly in bed, wasting (?) away the last of my short semester holiday. I had to once again take my sister to her zumba class like I do every saturday. I tried doing a Darkest Dungeon run but didn't get far... I also finished *Imosae* volume 10, and here's what I say on anilist about it:

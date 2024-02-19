@@ -5,6 +5,7 @@ date: 2024-02-01
 tags: 
   - Daily
   - February 2024
+  - Imosae
 ---
 
 Tonight, just before I slept, I forgot to save for the progress of my secret santa gift. I almost lost all will of doing anything after I found out that the whole work are not saved at all, and unlike Word, Premiere does NOT have autosave. All those progress... I have to face the music at that point, and decided to scrap some of the ideas I have in favor of a completely new one, just a full MV instead of MV with embellishment.
@@ -18,3 +19,13 @@ I'm also working on my secret santa gift, left abandoned for almost a month now.
 While I do all those, I listened to some K-Pop music that I've left behind for a bit, like Aespa's "Drama", Dreamcatcher's "OOTD", and EVERGLOW's "Slay". It's like I never left.
 
 I also listened to Honkai Star Rail's 2.0 Trailer, with the song "White Night" today. That was a bop as well, I can't wait to go to Penacony.
+
+I also finished Volume 8 of Imosae. I'll let my anilist comment for it speak for itself:
+
+finished volume 8. Christmas, Miyako cosplaying at Comiket, Itsuki shrine visit with Nayuta, Itsuki's anime adaptation news getting leaked (based on a true story, so based), toki the editor getting bald, Haruto being a manwhore (and the source of that nickname) and going on a date with two girls on the same volume (Chihiro get two art for that Akihabara date, holy shit), the trio of Kaiko, Nayuta, and Miyako moving in together, and Chihiro getting vibrator from Ashley... Itsuki and Nayuta having a hot spring trip...
+
+and in the background, a plot began to form... the new novelists from the award contest are integrating themselves into the world of Light Novels. The author of the ass novel (I will call it that, do not stop me) meets the literal ass illustrator Puriketsu (and somehow became the catalyst of Toki finding out Chihiro is a girl, I will watch that plot point with interest), the samurai author encouraging Toki to become bald, Ui Aioi releases her novel (the first amongst the batch) and stalks bookstores to watch people buying her books (she met Haruto too, and mans are slowly falling for her)... this isn't even all of the authors that are there in the awards...
+
+how can a volume pack so much? And why do I keep saying that after 7 volumes of about a similar amount of content each volume? is this the power of being a professional novelist... can they really just pour this out every three months? This is some crazy shit... it's all slice of life, but it feels like... real? but also fictional? it's all very natural, the inclusion of the ever-growing cast...
+
+I'm not ready for when Itsuki finds out that he has a little sister all along... what would happen? guess I'll find out by keep reading. I'm more than halfway through...
