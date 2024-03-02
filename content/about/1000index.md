@@ -13,5 +13,5 @@ A project best described as my futile attempt to try and write a thousand words 
 
 # A Thousand Words Archive
 
-{% set postslist = collections.1000words %}
+{% set postslist = collections.A_Thousand_Words %}
 {% include "postslist.njk" %}
