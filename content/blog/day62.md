@@ -1,11 +1,15 @@
 ---
 title: Day 62.
-description: ...where Al clears up a misunderstanding with an old friend, and played Jackbox.
+description: ...where Al had an oopsie with his college, clears up a misunderstanding with an old friend, and played Jackbox.
 date: 2024-03-02
 tags: 
   - Daily
   - March 2024
 ---
+
+Today's class are all cancelled, and I only realized it once I got to my uni, whilst it was raining outside. I can't even go home even if I want to... I hate my life.
+
+Other than that, I spent the day lazing around, until afternoon, where I have to face a situation I've been dreading.
 
 I dreaded the day I had to meet this group of friends that cut me off from their friendship, but turns out I was worrying for nothing.
 

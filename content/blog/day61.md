@@ -49,4 +49,12 @@ I also finalized my plans for the month of March, the final month before my Cont
 
 Dear God... please help me get through this month.
 
-And I also finished... volume 14 of *Imouto Sae Ireba Ii*, finishing my journey through the series at last. The volume (which I feel like counts as an epilogue of sorts after the climax of last volume) managed to get in one last degeneracy, one last climax, and one last 
+And I also finished... volume 14 of *Imouto Sae Ireba Ii*, finishing my journey through the series at last. The volume (which I feel like counts as an epilogue of sorts after the climax of last volume) managed to get in one last degeneracy, one last climax, and one last cool moment from our protagonist.
+
+*"Bring it on!"*
+
+It's peak... I don't know what else to say. Everyone is more grown up now, the story seems more mature but also didn't lose it's roots of being degenerate, people who we know earlier as a younger person have changed significantly.
+
+I am planning to write a thorough review on what I feel on the volume in my anilist review, so when that happens I'll just copy and paste the thing below here. Things that I might not put in in that review though... is that I'm now working on the Imosae wiki!
+
+You know a series is good when I started working on their wiki... or maybe it's just because the wiki is pretty much filled with nothing and I wanted to work on it, heh.
