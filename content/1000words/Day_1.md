@@ -17,7 +17,3 @@ Things wouldn't end up this peacefully if I didn't have as much cash in my walle
 But instead I averted it. But I know what will happen if I kept a lie. I already kept many. A belief I began to stop believing. A will to live waning as I started to be numb to anything. 
 
 The approaching reveal of...
-
-
-
-

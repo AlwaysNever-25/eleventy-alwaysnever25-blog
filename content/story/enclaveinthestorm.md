@@ -1,6 +1,6 @@
 ---
 title: Enclave in the Storm
-description: 
+description: "The storm rages on but the writer stood still."
 date: 2020-02-10
 tags:
   - Two Thousand Twenty Words

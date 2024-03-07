@@ -1,5 +1,5 @@
 ---
-title: Day 102 of 365.
+title: Swamp
 description: ...where 2020 Al wrote the story 'Swamp'.
 date: 2020-04-11
 tags:
