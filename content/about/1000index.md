@@ -2,7 +2,8 @@
 layout: layouts/base.njk
 eleventyNavigation:
   key: A Thousand Words (2019)
-  order: 5
+  parent: Project
+  order: 4
 ---
 
 # A Thousand Words
