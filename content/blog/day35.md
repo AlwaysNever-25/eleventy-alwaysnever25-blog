@@ -3,7 +3,6 @@ title: Day 35.
 description: ...where Al talks about Jojo Rabbit, Honkai Star Rail, and Secret Santa.
 date: 2024-02-04
 tags: 
-  - Daily
   - February 2024
 ---
 

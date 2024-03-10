@@ -3,7 +3,6 @@ title: Day 33.
 description: ...where Al had a wild day involving Your Throne, Imosae, PewDiePie, Oshi no Ko, Osu, and Tenet.
 date: 2024-02-02
 tags: 
-  - Daily
   - February 2024
   - Imosae
 ---

@@ -3,7 +3,6 @@ title: Day 61.
 description: ...where Al played a game with a controller for the first time in a while, and finished the last volume of Imosae Light Novel.
 date: 2024-03-01
 tags: 
-  - Daily
   - March 2024
   - Imosae
 ---

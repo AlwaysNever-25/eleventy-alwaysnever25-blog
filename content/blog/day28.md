@@ -3,7 +3,6 @@ title: Day 28.
 description: ...where Al talks in length about Dunkirk.
 date: 2024-01-28
 tags: 
-  - Daily
   - January 2024
 ---
 

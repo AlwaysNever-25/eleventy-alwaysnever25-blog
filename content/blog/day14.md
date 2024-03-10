@@ -3,7 +3,6 @@ title: Day 14.
 description: ...where Al tried Netlify.
 date: 2024-01-14
 tags: 
-  - Daily
   - January 2024
 ---
 Officially published the website on Netlify... I still don't know what that really mean. So... is it now like, using Netlify's stuff instead of Github? Does that mean I can be more flexible in my website design? But to do what really? I'm still unsure about it all, I had to ask people to see if they understand it more than me, but to no avail.

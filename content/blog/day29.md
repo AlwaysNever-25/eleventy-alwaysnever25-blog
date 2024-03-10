@@ -3,7 +3,6 @@ title: Day 29.
 description: ...where Al talks about the 24 hours of his twenty-fourth birthday.
 date: 2024-01-29
 tags: 
-  - Daily
   - January 2024
 ---
 

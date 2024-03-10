@@ -3,7 +3,6 @@ title: Day 34.
 description: ...where Al finishes the tenth volume of Imosae, watched Oppenheimer, and did the qualifier for AMQ tournament.
 date: 2024-02-03
 tags: 
-  - Daily
   - February 2024
   - Imosae
 ---

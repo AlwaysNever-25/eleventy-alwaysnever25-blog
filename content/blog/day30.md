@@ -3,7 +3,6 @@ title: Day 30.
 description: ...where Al talks about a shojo manga and eating barbecue.
 date: 2024-01-30
 tags: 
-  - Daily
   - January 2024
 ---
 

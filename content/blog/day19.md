@@ -3,7 +3,6 @@ title: Day 19.
 description: ...where Al had to do a lot of things, but he decided to finish Imosae instead.
 date: 2024-01-19
 tags: 
-  - Daily
   - January 2024
   - Imosae
 ---

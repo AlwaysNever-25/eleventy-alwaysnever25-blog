@@ -3,7 +3,6 @@ title: Day 5.
 description: ...where Al fanboy over Christopher Nolan and TomSka.
 date: 2024-01-05
 tags: 
-  - Daily
   - January 2024
 ---
 Worked on the beer page for Imosae, as I started volume 4. Kaiko.... anyway, I'll just work on it more.

@@ -3,7 +3,6 @@ title: Day 22.
 description: ...where Al talks about Arknights.
 date: 2024-01-22
 tags: 
-  - Daily
   - January 2024
 ---
 

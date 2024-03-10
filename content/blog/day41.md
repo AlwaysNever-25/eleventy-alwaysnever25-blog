@@ -3,7 +3,6 @@ title: Day 41.
 description: ...where Al raves about Honkai Star Rail's Penacony arc.
 date: 2024-02-10
 tags: 
-  - Daily
   - February 2024
 ---
 

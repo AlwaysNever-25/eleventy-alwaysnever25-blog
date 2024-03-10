@@ -3,7 +3,6 @@ title: Day 47.
 description: ...where Al went to the National Library, and watched The Truman Show.
 date: 2024-02-16
 tags: 
-  - Daily
   - February 2024
 ---
 

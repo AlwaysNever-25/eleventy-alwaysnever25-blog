@@ -3,7 +3,6 @@ title: Day 66.
 description: ...where Al finally finished Tomb Raider (2013) and FINALLY begin his contracted game, Rise of the Tomb Raider..
 date: 2024-03-06
 tags: 
-  - Daily
   - March 2024
 ---
 

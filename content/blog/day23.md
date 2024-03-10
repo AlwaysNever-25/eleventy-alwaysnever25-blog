@@ -3,7 +3,6 @@ title: Day 23.
 description: ...where Al laments over another exam in the gauntlet of finals.
 date: 2024-01-23
 tags: 
-  - Daily
   - January 2024
 ---
 

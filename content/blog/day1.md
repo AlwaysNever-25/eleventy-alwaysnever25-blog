@@ -3,7 +3,6 @@ title: Day 1.
 description: ...where Al begin another new "New Years" project.
 date: 2024-01-01
 tags:
-  - Daily
   - January 2024
 ---
 Here we come, 2024.

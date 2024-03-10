@@ -3,7 +3,6 @@ title: Day 45.
 description: ...where Al voted.
 date: 2024-02-14
 tags: 
-  - Daily
   - February 2024
 ---
 

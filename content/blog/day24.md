@@ -3,7 +3,6 @@ title: Day 24.
 description: ...where Al laments over another exam in the gauntlet of finals, and some random assortment of romance mangas.
 date: 2024-01-24
 tags: 
-  - Daily
   - January 2024
 ---
 

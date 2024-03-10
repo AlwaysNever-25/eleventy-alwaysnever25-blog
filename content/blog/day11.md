@@ -3,7 +3,6 @@ title: Day 11.
 description: ...where Al gets down, but forces himself to watch an anime.
 date: 2024-01-11
 tags: 
-  - Daily
   - January 2024
 ---
 Been really down the past few days, just sleeping on my bed. Before sleeping yesterday I forced myself to watch *Dead Mount Death Play* anime. Was not really the first thing on my list I have to watch, but I feel like it (this will be a common reoccurence throughout, so watch out).

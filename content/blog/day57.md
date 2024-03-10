@@ -3,7 +3,6 @@ title: Day 57.
 description: ...where Al went to the amusement park with the cool people.
 date: 2024-02-26
 tags: 
-  - Daily
   - February 2024
 ---
 

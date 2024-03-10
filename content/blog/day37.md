@@ -3,7 +3,6 @@ title: Day 37.
 description: ...where Al has his second class for the semester, a lecture and a laboratory class, and spent some of them playing AMQ tournament instead.
 date: 2024-02-06
 tags: 
-  - Daily
   - February 2024
 ---
 

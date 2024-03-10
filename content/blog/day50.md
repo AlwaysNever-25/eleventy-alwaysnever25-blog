@@ -3,7 +3,6 @@ title: Day 50.
 description: ...where Al finished Volume 12 of Imosae, and goes on a length about each member of his party in Dungeons and Dragons campaign.
 date: 2024-02-19
 tags: 
-  - Daily
   - February 2024
   - Dungeons & Dragons
   - Imosae

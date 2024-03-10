@@ -3,7 +3,6 @@ title: Day 20.
 description: ...where Al talks about his disastrous exam.
 date: 2024-01-20
 tags: 
-  - Daily
   - January 2024
 ---
 

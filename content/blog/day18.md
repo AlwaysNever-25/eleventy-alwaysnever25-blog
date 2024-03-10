@@ -3,7 +3,6 @@ title: Day 18.
 description: ...where Al finishes two anime and finishes moving January 2020 to the 2020 project.
 date: 2024-01-18
 tags: 
-  - Daily
   - January 2024
 ---
 

@@ -3,7 +3,6 @@ title: Day 54.
 description: ...where Al did an oopsie, worked on wiki, and finished Imosae volume 13.
 date: 2024-02-23
 tags: 
-  - Daily
   - February 2024
   - Imosae
 ---

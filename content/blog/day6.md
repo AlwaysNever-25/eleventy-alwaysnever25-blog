@@ -3,7 +3,6 @@ title: Day 6.
 description: ...where Al got hoodwinked by deadlines and watch Bale-Batman.
 date: 2024-01-06
 tags: 
-  - Daily
   - January 2024
 ---
 Today I felt like an idiot, worrying about the deadline of projects when it turns out there is no deadline today. All my friends are sitting calmly while I lost my shit.

@@ -3,7 +3,6 @@ title: Day 40.
 description: ...where Al talks about his family and Four Lions.
 date: 2024-02-09
 tags: 
-  - Daily
   - February 2024
 ---
 

@@ -3,7 +3,6 @@ title: Day 32.
 description: ...where Al spend the day seething over lost progress and resting, coming back to an "old" wiki.
 date: 2024-02-01
 tags: 
-  - Daily
   - February 2024
   - Imosae
 ---

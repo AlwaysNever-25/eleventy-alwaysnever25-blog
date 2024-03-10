@@ -3,7 +3,6 @@ title: Day 52.
 description: ...where Al gets addicted to something... heinous. He also watched Bourne Identity.
 date: 2024-02-21
 tags: 
-  - Daily
   - February 2024
 ---
 

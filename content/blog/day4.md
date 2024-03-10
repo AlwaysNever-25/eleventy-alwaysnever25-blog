@@ -3,7 +3,6 @@ title: Day 4.
 description: ...where Al is sick.
 date: 2024-01-04
 tags: 
-  - Daily
   - January 2024
 ---
 Woke up with a fever today, even though I have a make up class to go to. Decided to stay home.

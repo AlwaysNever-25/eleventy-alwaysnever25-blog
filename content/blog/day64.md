@@ -3,7 +3,6 @@ title: Day 64.
 description: ...where Al was fooled into coming into a cancelled class... one more time. And also where Al worked on Imosae Wiki, and wrote the full review for the final volume of the review.
 date: 2024-03-04
 tags: 
-  - Daily
   - March 2024
   - Imosae
 ---

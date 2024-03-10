@@ -3,7 +3,6 @@ title: Day 17.
 description: ...where Al actually started releasing his old Two Thousand Twenty Words project into this blog, and talked about Gacha games and Anime update.
 date: 2024-01-17
 tags: 
-  - Daily
   - January 2024
 ---
 

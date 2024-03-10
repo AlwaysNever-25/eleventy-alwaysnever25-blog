@@ -3,7 +3,6 @@ title: Day 63.
 description: ...where Al spent another day lazing around, and progressed in his contract.
 date: 2024-03-03
 tags: 
-  - Daily
   - March 2024
 ---
 

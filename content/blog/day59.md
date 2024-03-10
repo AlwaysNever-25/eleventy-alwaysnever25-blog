@@ -3,7 +3,6 @@ title: Day 59.
 description: ...where Al hung out in a mall with cool peeps.
 date: 2024-02-28
 tags: 
-  - Daily
   - February 2024
 ---
 

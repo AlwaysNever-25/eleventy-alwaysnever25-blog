@@ -3,7 +3,6 @@ title: Day 62.
 description: ...where Al had an oopsie with his college, clears up a misunderstanding with an old friend, and played Jackbox.
 date: 2024-03-02
 tags: 
-  - Daily
   - March 2024
 ---
 

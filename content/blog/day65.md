@@ -3,7 +3,6 @@ title: Day 65.
 description: ...where Al finally progressed enough in Tomb Raider (2013) to finish it.
 date: 2024-03-05
 tags: 
-  - Daily
   - March 2024
 ---
 

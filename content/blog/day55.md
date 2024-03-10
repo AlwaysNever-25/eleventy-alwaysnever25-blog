@@ -3,7 +3,6 @@ title: Day 55.
 description: ...where Al had a meet up.
 date: 2024-02-24
 tags: 
-  - Daily
   - February 2024
 ---
 

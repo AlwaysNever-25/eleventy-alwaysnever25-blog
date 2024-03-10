@@ -3,7 +3,6 @@ title: Day 39.
 description: ...where Al have a heart-racing AMQ match, and talks about Imosae.
 date: 2024-02-08
 tags: 
-  - Daily
   - February 2024
   - Imosae
 ---

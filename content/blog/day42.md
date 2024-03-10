@@ -3,7 +3,6 @@ title: Day 42.
 description: ...where Al gets scared for his country's voting system.
 date: 2024-02-11
 tags: 
-  - Daily
   - February 2024
 ---
 

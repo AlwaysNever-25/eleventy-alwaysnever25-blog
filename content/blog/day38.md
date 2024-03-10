@@ -3,7 +3,6 @@ title: Day 38.
 description: ...where Al spends the whole day basically outside.
 date: 2024-02-07
 tags: 
-  - Daily
   - February 2024
 ---
 

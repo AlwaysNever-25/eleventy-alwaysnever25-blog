@@ -3,7 +3,6 @@ title: Day 31.
 description: ...where Al talk about being an IT consultant (on his father's office, which is not real experience) and experience commuting on a LRT line.
 date: 2024-01-31
 tags: 
-  - Daily
   - January 2024
 ---
 

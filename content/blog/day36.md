@@ -3,7 +3,6 @@ title: Day 36.
 description: ...where Al goes back to college learning macroeconomics, progressed on his secret santa gift and studying for AMQ tournament, talked a bit about the black company 2434, and recap his returning Dungeon and Dragons session.
 date: 2024-02-05
 tags: 
-  - Daily
   - February 2024
   - Dungeons & Dragons
 ---

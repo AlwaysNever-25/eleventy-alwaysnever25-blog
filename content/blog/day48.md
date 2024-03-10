@@ -3,7 +3,6 @@ title: Day 48.
 description: ...where Al became the most tired of this year.
 date: 2024-02-17
 tags: 
-  - Daily
   - February 2024
 ---
 

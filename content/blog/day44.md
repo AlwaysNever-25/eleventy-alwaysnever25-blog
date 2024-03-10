@@ -3,7 +3,6 @@ title: Day 44.
 description: ...where Al talk about Nijisanji and Look Back.
 date: 2024-02-13
 tags: 
-  - Daily
   - February 2024
 ---
 

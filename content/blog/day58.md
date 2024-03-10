@@ -3,7 +3,6 @@ title: Day 58.
 description: ...where Al met Ado with the cool peeps. (This is very long.)
 date: 2024-02-27
 tags: 
-  - Daily
   - February 2024
 ---
 

@@ -3,7 +3,6 @@ title: Day 51.
 description: ...where Al touched grass, learns new things about HTMl, and played Darkest Dungeon.
 date: 2024-02-20
 tags: 
-  - Daily
   - February 2024
 ---
 

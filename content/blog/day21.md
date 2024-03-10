@@ -3,7 +3,6 @@ title: Day 21.
 description: ...where Al talks about Imosae, One Room of Happiness, and seasonal animes.
 date: 2024-01-21
 tags: 
-  - Daily
   - January 2024
   - Imosae
 ---

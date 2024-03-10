@@ -3,7 +3,6 @@ title: Day 3.
 description: ...where Al ramble about all the series he's reading this year.
 date: 2024-01-03
 tags:
-  - Daily
   - January 2024
 ---
 Had to help my sister fix a tablet today. I did leave yesterday too, but I don't feel like saying it in the entry. Now I have to, since this makes it two days in a row where I have to go out.

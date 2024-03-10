@@ -3,7 +3,6 @@ title: Day 43.
 description: ...where Al recap his Dungeon & Dragons session where his character went through some stuff.
 date: 2024-02-12
 tags: 
-  - Daily
   - February 2024
   - Dungeons & Dragons
 ---

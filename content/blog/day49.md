@@ -3,7 +3,6 @@ title: Day 49.
 description: ...where Al went limp for basically the whole day, but also he finished Hyouka.
 date: 2024-02-18
 tags: 
-  - Daily
   - February 2024
 ---
 

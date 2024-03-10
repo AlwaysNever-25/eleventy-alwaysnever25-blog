@@ -3,7 +3,6 @@ title: Day 9.
 description: ...where Al finished a romcom manga.
 date: 2024-01-09
 tags: 
-  - Daily
   - January 2024
 ---
 I finished *Last Game*, a romance manga set in college about a rich boy trying to make his childhood friend, a stone cold airhead that doesn't understand feelings.

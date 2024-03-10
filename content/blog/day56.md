@@ -3,7 +3,6 @@ title: Day 56.
 description: ...where Al stayed over and basically spent the whole day with cool people.
 date: 2024-02-25
 tags: 
-  - Daily
   - February 2024
 ---
 

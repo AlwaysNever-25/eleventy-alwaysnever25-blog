@@ -3,7 +3,6 @@ title: Day 26.
 description: ...where Al talks about the last two exams in his gauntlet.
 date: 2024-01-26
 tags: 
-  - Daily
   - January 2024
 ---
 

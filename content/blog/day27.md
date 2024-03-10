@@ -3,7 +3,6 @@ title: Day 27.
 description: ...where Al talks about the day after he finishes his exam, where he celebrate with his friends, watching movies, and reading mangas.
 date: 2024-01-27
 tags: 
-  - Daily
   - January 2024
 ---
 

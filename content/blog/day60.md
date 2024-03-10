@@ -3,7 +3,6 @@ title: Day 60.
 description: ...where Al say goodbye to the cool peeps, goes back to school, and received a shocking revelation.
 date: 2024-02-29
 tags: 
-  - Daily
   - February 2024
 ---
 

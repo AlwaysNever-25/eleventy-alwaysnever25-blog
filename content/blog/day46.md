@@ -3,7 +3,6 @@ title: Day 46.
 description: ...where Al reeling from the preliminary result of the voting.
 date: 2024-02-15
 tags: 
-  - Daily
   - February 2024
 ---
 
