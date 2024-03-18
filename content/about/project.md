@@ -1,7 +1,6 @@
 ---
 title: Project
 layout: layouts/home.njk
-permalink: false
 eleventyNavigation:
   key: Project
   order: 2
