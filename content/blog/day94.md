@@ -1,5 +1,5 @@
 ---
-title: Day 93.
+title: Day 94.
 description: extension but hopeless still
 date: 2024-04-03
 tags: 
