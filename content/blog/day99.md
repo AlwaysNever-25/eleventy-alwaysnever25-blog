@@ -20,6 +20,6 @@ And yeah, Anna and Kyotaro remains to be the cutest couple (they're both adorabl
 
 -----
 
-![never doing this again](https://cdn.discordapp.com/attachments/1103224006586417152/1226834728053641266/image.png?ex=662635e0&is=6613c0e0&hm=0e5891446c0f8e25289f730601408b26d60ba6c875c5277526f8f937b39f136a&)
+<img alt="never doing this again" src="https://cdn.discordapp.com/attachments/1103224006586417152/1226834728053641266/image.png?ex=662635e0&is=6613c0e0&hm=0e5891446c0f8e25289f730601408b26d60ba6c875c5277526f8f937b39f136a&" width="500px"></img>
 
 I hate this event so much. Why am I even back in Arknights...
