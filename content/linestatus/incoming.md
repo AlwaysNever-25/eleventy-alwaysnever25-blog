@@ -1,6 +1,6 @@
 ---
 title: incoming
-description: This is the second of LINE Status series.
+description: This is the second of LINE Status series, titled "incoming".
 date: 2018-09-05
 tags: 
   - September 2018

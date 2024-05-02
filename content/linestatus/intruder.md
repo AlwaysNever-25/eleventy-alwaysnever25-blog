@@ -1,6 +1,6 @@
 ---
 title: intruder
-description: This is the first of LINE Status series.
+description: This is the first of LINE Status series, titled "intruder".
 date: 2018-09-01
 tags: 
   - September 2018

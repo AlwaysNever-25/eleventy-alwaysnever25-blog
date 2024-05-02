@@ -1,6 +1,6 @@
 ---
 title: indirect
-description: This is the third of LINE Status series.
+description: This is the third of LINE Status series, titled "indirect".
 date: 2018-09-10
 tags: 
   - September 2018
@@ -8,7 +8,7 @@ tags:
 
 This is nothing new, and I should have expected it.
 
-We sat here in the night, under a big tree, bitten by mosquiots on any skin exposed. We sat there and was *gently* reprimanded for faults that might or might not mostly be ours.
+We sat here in the night, under a big tree, bitten by mosquiotos on any skin exposed. We sat there and was *gently* reprimanded for faults that might or might not mostly be ours.
 
 How can we care about people that might or might not care about us?
 
