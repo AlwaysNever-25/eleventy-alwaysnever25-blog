@@ -13,4 +13,4 @@ The story of his life is full of transformation. Some was needed so that he can 
 There's even some that transform him in a way he didn't even notice.
 
 -unknown where, unknown when
-(assumed to be some time before October 8, 2018)
+(assumed to be between September 24, 2018 to October 8, 2018)
