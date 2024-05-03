@@ -3,7 +3,6 @@ title: Day 1
 description: ...where 2019 Al began the first day of his "A Thousand Words" project.
 date: 2019-06-01
 tags:
-  - A Thousand Words
   - June 2019
 ---
 A thousand words a day.

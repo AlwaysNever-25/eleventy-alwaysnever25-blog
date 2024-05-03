@@ -3,7 +3,6 @@ title: Day 63
 description: ...where 2019 Al translated something he wrote in his mother's tongue.
 date: 2019-08-02
 tags:
-  - A Thousand Words
   - August 2019
 ---
 

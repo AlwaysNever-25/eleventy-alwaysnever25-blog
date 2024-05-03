@@ -3,7 +3,6 @@ title: Day 16
 description: ...where 2019 Al curses his broken keyboard and created new plans for the project.
 date: 2019-06-16
 tags:
-  - A Thousand Words
   - June 2019
 ---
 

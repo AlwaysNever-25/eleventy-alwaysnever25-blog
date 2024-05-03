@@ -3,7 +3,6 @@ title: Day 43
 description: ...where 2019 Al talked about his day.
 date: 2019-07-13
 tags:
-  - A Thousand Words
   - July 2019
 ---
 

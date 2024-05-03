@@ -3,7 +3,6 @@ title: Day 71
 description: ...where 2019 Al ruminates over 'good'.
 date: 2019-08-10
 tags:
-  - A Thousand Words
   - August 2019
 ---
 

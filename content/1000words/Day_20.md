@@ -3,7 +3,6 @@ title: Day 20
 description: ...where 2019 Al talked about Tere Liye's BUMI series.
 date: 2019-06-20
 tags:
-  - A Thousand Words
   - June 2019
 ---
 

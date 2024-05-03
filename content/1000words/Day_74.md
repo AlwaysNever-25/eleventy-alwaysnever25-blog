@@ -3,7 +3,6 @@ title: Day 74
 description: ...where 2019 Al say goodbye to "A Thousand Word" project.
 date: 2019-08-13
 tags:
-  - A Thousand Words
   - August 2019
 ---
 

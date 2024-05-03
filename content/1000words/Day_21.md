@@ -3,7 +3,6 @@ title: Day 21
 description: ...where 2019 Al spiralled over his soul, his choice, and his resolve.
 date: 2019-06-21
 tags:
-  - A Thousand Words
   - June 2019
 ---
 

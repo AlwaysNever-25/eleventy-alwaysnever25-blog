@@ -3,7 +3,6 @@ title: Day 38
 description: ...where 2019 Al gives an update on his (offscreened) projects.
 date: 2019-07-08
 tags:
-  - A Thousand Words
   - July 2019
 ---
 

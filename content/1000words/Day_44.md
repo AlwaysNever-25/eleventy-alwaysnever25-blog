@@ -3,7 +3,6 @@ title: Day 44
 description: ...where 2019 Al reflected on his life.
 date: 2019-07-13
 tags:
-  - A Thousand Words
   - July 2019
 ---
 

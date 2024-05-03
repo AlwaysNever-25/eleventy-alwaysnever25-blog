@@ -3,7 +3,6 @@ title: Day 3
 description: ...where 2019 Al talks about his purpose for writing.
 date: 2019-06-03
 tags:
-  - A Thousand Words
   - June 2019
 ---
 

@@ -3,7 +3,6 @@ title: Day 2
 description: ...where 2019 Al establishes the rules of his "A Thousand Words" project, which became the backbone for his future projects.
 date: 2019-06-02
 tags:
-  - A Thousand Words
   - June 2019
 ---
 A thousand words a day.
