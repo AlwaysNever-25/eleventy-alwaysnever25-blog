@@ -4,6 +4,7 @@ description: ...where Al talk about being an IT consultant (on his father's offi
 date: 2024-01-31
 tags: 
   - January 2024
+  - Work
 ---
 
 Today I become an IT consultant again. I already spend some time back in day 29 to move my dad's PC to his employee's place, replacing her old Windows XP PC with my dad's. I don't really know why he decided to just use an old laptop with Windows 7 on it, the same one he brought on day 28 to fix. He really going to monopolize all of my holiday for his gain, huh? Sigh...

@@ -4,6 +4,8 @@ description: failed D-Day
 date: 2024-04-08
 tags: 
   - April 2024
+  - The Dangers in My Heart
+  - Arknights
 ---
 
 Planned to spend all night after yesterday's events to see how far I can get in *Darkest Dungeon*. I kinda fell asleep before I can do that.

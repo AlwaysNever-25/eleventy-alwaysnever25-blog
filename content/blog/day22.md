@@ -4,6 +4,8 @@ description: ...where Al talks about Arknights.
 date: 2024-01-22
 tags: 
   - January 2024
+  - Paripi Koumei
+  - Arknights
 ---
 
 I'm catching up with *Paripi Koumei* today, finishing three more episodes and ***finally*** bringing them up closer to the ending. I've been putting this on hold for too long.

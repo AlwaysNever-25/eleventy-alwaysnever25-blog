@@ -4,6 +4,7 @@ description: heavy
 date: 2024-03-30
 tags: 
   - March 2024
+  - Roshidere
 ---
 
 Finished *Roshidere* volume 1. It's quite good, but the translation is dog shit... wished there's a better translation out there, I'll probably reread the volume again with a better TL once I caught up or something. Maybe this would lead me to edit the *Roshidere* wiki, I saw that they're not as organized as they could be... 👀

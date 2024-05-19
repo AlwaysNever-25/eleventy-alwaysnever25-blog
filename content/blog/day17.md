@@ -4,6 +4,8 @@ description: ...where Al actually started releasing his old Two Thousand Twenty 
 date: 2024-01-17
 tags: 
   - January 2024
+  - Honkai Star Rail
+  - Paripi Koumei
 ---
 
 Starting to work on putting my Two Thousand Twenty Words project [here](https://alwaysnever25-blog.netlify.app/tags/two-thousand-twenty-words/). I also considered putting up stories here, stories that might be a bit undercooked though. I'm keeping big, potentially working out story on my main website.

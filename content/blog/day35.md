@@ -4,6 +4,7 @@ description: ...where Al talks about Jojo Rabbit, Honkai Star Rail, and Secret S
 date: 2024-02-04
 tags: 
   - February 2024
+  - Honkai Star Rail
 ---
 
 After Oppenheimer watching before midnight, we decided to do an impromptu viewing of *Jojo Rabbit*, Taika Waititi's film that touches upon a sensitive topic about young German boy during WWII.

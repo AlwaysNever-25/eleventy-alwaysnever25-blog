@@ -4,6 +4,7 @@ description: ...where Al finishes two anime and finishes moving January 2020 to 
 date: 2024-01-18
 tags: 
   - January 2024
+  - Dead Mount Death Play
 ---
 
 Last night, just before sleeping, I managed to complete *Dead Mount Death Play* anime. Even though looking at it, it really does follow the manga panels down to a tee (sometimes this is a good thing), the animation just cannot be compared to the manga, unfortunately. The manga is also very *dense*, so the slightest thing they cut affects my enjoyment of the story as a whole (and they cut a *lot*). 

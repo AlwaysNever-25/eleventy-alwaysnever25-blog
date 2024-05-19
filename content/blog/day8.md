@@ -4,6 +4,8 @@ description: ...where Al rant about Magus of the Library and other mangas/animes
 date: 2024-01-08
 tags: 
   - January 2024
+  - The Dangers in My Heart
+  - Magus of the Library
 ---
 *Magus of the Library* is a 10/10. I'll put in my thoughts here even though this is supposed to be a contract, which should be put on my contract review portion of the website, but I'll put it here nonetheless for future references. I have grand ideas about how I want to pour my love for this series, because it was a magnificent story.
 
