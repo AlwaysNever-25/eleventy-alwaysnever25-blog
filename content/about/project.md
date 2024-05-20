@@ -9,6 +9,7 @@ eleventyNavigation:
 
 # Project
 
+- [***LINE Status***](https://alwaysnever25-blog.netlify.app/about/linestatus/)
 - [***A Thousand Words***](https://alwaysnever25-blog.netlify.app/about/1000index/)
 - [***A Semester in Writing***](https://alwaysnever25-blog.netlify.app/about/semesterindex/)
 - [***Two Thousand Twenty Words***](https://alwaysnever25-blog.netlify.app/about/2020index/)
