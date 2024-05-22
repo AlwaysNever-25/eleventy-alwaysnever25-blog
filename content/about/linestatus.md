@@ -3,6 +3,7 @@ layout: layouts/base.njk
 eleventyNavigation:
   key: LINE Status (2019)
   parent: Project
+  order: 1
 ---
 
 # LINE Status Series

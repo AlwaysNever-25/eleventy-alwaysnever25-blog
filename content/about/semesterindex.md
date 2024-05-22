@@ -3,6 +3,7 @@ layout: layouts/base.njk
 eleventyNavigation:
   key: A Semester in Writing (2019)
   parent: Project
+  order: 3
 ---
 
 # A Semester in Writing

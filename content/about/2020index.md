@@ -3,6 +3,7 @@ layout: layouts/base.njk
 eleventyNavigation:
   key: Two Thousand Twenty Words (2020)
   parent: Project
+  order: 4
 ---
 # Two Thousand Twenty Words
 
