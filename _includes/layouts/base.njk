@@ -43,21 +43,32 @@
 			<nav>
 				<h2 class="visually-hidden">Top level navigation menu</h2>
 				{% set navPages = collections.all | eleventyNavigation %}
-				{% macro renderNavListItem(entry) -%}
-					<li class="nav-item">
+				{% macro renderNavListItemParent(entry) -%}
+					<div class="dropdown">
+					<li>
 						<a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>
 							{{ entry.title }}
 						</a>
 						{%- if entry.children.length -%}
-						<ul>
-							{%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+						<ul class="dropdown-content nav">
+							{%- for child in entry.children %}{{ renderNavListItemChild(child) }}{% endfor -%}
 						</ul>
 						{%- endif -%}
 					</li>
+					</div>
 				{%- endmacro %}
+
+				{% macro renderNavListItemChild(child) %}
+					<li>
+						<a href="{{ child.url }}"{% if child.url == page.url %} aria-current="page"{% endif %}>
+							{{ child.title }}
+						</a>
+					</li>
+				{%- endmacro -%}
 				
 				<ul class="nav">
-					{%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+					{%- for entry in navPages %}{{ renderNavListItemParent(entry) }}{%- endfor -%}
+					
 				</ul>
 
 				{#- <ul class="nav">
@@ -73,7 +84,11 @@
 		</header>
 
 		<main id="skip">
-			{{ content | safe }}
+			<div class="wrapper">
+				<div class="margin">
+					{{ content | safe }}
+				</div>
+			</div>
 		</main>
 
 		<footer></footer>
