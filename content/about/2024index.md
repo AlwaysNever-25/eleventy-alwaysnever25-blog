@@ -3,7 +3,7 @@ layout: layouts/base.njk
 eleventyNavigation:
   key: Daily Project (2024)
   parent: Project
-  order: 5
+  order: 6
 ---
 
 # Daily Project
