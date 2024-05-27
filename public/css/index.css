@@ -2,15 +2,17 @@
 :root {
 	--font-family: -apple-system, system-ui, sans-serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+	--global-transition-time: 0.21s;
 }
 
 /* Theme colors */
-:root {
+[data-theme="light"] {
 	--color-gray-20: #e0e0e0;
 	--color-gray-50: #C0C0C0;
-	--color-gray-90: #333;
+	--color-gray-90: #0b0b0b;
 
-	--background-color: #fff;
+	--background-color: #eeaf6140;
+	--background-dropdown-color: #eeaf61;
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: #082840;
@@ -18,21 +20,47 @@
 	--text-color-link-visited: #17050F;
 
 	--syntax-tab-size: 2;
+
+	--background-image: url(/img/light-bg.jpg);
 }
 
-@media (prefers-color-scheme: dark) {
-	:root {
+[data-theme="dark"] {
 		--color-gray-20: #e0e0e0;
 		--color-gray-50: #C0C0C0;
 		--color-gray-90: #dad8d8;
 
 		/* --text-color is assigned to --color-gray-_ above */
+		--text-color: var(--color-gray-90);
+
 		--text-color-link: #1493fb;
 		--text-color-link-active: #6969f7;
 		--text-color-link-visited: #a6a6f8;
 
 		--background-color: #15202b;
-	}
+		--background-dropdown-color: #2b1520;
+
+		--background-image: url(/img/dark-bg.jpg);
+}
+
+/* theme toggle */
+.theme_toggle{
+    padding: .5rem;
+    border-color: rgba(0, 0, 0, 0);
+    transition: all var(--global-transition-time) ease-in-out;
+    background-image: url(/img/theme-dark.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1.75rem;
+    width: 1.75rem;
+    border-radius: 100%;
+    background-color: rgba(0, 0, 0, 0);
+    cursor: pointer;
+    display: inline;
+    position: relative;
+}
+
+.theme_toggle.light-theme{
+	background-image: url(/img/theme-light.svg);
 }
 
 
@@ -47,9 +75,10 @@ body {
 	margin: 0 auto;
 	font-family: var(--font-family);
 	color: var(--text-color);
-	background-image: url(/img/pexels-felixmittermeier-956999.jpg);
+	background-image: var(--background-image);
 	background-color: var(--background-color);
 	background-size: cover;
+	background-attachment: fixed;
 }
 html {
 	overflow-y: scroll;
@@ -62,6 +91,16 @@ body {
 @font-face {
 	font-family: aileron-light;
 	src: url(/css/fonts/Aileron-Light.otf) format("opentype");
+}
+
+/* wrapper */
+
+.wrapper{
+	background-color: var(--background-color);
+}
+
+.margin{
+	margin: 10px;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -295,7 +334,7 @@ h2 + .header-anchor {
 .dropdown-content {
 	display: none;
 	position: absolute;
-	background-color: #400828;
+	background-color: var(--background-dropdown-color);
 	font-family: aileron-light;
 	min-width: 160px;
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -316,17 +355,4 @@ h2 + .header-anchor {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
 	display: block;
-}
-  
-  /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {
-	background-color: #3e8e41;
-}
-
-.wrapper{
-	background-color: rgba(21, 32, 43, 0.8);
-}
-
-.margin{
-	margin: 10px;
 }

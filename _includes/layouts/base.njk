@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ metadata.language }}">
+<html lang="{{ metadata.language }}" data-theme="dark">
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,7 +36,7 @@
 	<body>
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
-		<header>
+		<header class="header">
 			<a href="/" class="home-link">{{ metadata.title }}</a>
 
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
@@ -81,6 +81,8 @@
 				{%- endfor %}
 				</ul> #}
 			</nav>
+
+			<button type="button" data-theme-toggle aria-label="Change to light theme" class="theme_toggle light-theme"></button>
 		</header>
 
 		<main id="skip">
@@ -94,5 +96,8 @@
 		<footer></footer>
 
 		<!-- Current page: {{ page.url | htmlBaseUrl }} -->
+		<script>
+			{% include "public/js/theme.js" %}
+		</script>
 	</body>
 </html>
