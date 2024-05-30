@@ -44,8 +44,7 @@
 				<h2 class="visually-hidden">Top level navigation menu</h2>
 				{% set navPages = collections.all | eleventyNavigation %}
 				{% macro renderNavListItemParent(entry) -%}
-					<div class="dropdown">
-					<li>
+					<li class="dropdown">
 						<a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>
 							{{ entry.title }}
 						</a>
@@ -55,7 +54,6 @@
 						</ul>
 						{%- endif -%}
 					</li>
-					</div>
 				{%- endmacro %}
 
 				{% macro renderNavListItemChild(child) %}
@@ -67,8 +65,7 @@
 				{%- endmacro -%}
 				
 				<ul class="nav">
-					{%- for entry in navPages %}{{ renderNavListItemParent(entry) }}{%- endfor -%}
-					
+					{%- for entry in navPages %}{{ renderNavListItemParent(entry) }}{%- endfor -%}	
 				</ul>
 
 				{#- <ul class="nav">

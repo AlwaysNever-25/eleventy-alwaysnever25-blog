@@ -1,8 +1,7 @@
 ---
 title: Darkened
 description: Light Brats Chapter 4 - Darkened
-date: 2022-11-01
-draft: true
+date: 2022-11-04
 tags:
   - November 2022
   - Light Brats

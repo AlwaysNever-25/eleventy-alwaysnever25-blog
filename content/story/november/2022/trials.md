@@ -1,8 +1,7 @@
 ---
 title: Trials
 description: Light Brats Chapter 2 - Trials
-date: 2022-11-01
-draft: true
+date: 2022-11-02
 tags:
   - November 2022
   - Light Brats
