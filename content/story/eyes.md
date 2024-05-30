@@ -4,6 +4,7 @@ description: "Two sets of eyes meet each other in a hallway of a building..."
 date: 2019-06-29
 draft: true
 tags:
+  - June 2019
   - Story
 ---
 

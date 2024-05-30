@@ -3,6 +3,7 @@ title: "Lounge and Wolf"
 description: "In this tale, a shapeshifting wolf meets a drunk boy."
 date: 2024-01-06
 tags:
+  - January 2024
   - Story
   - Fanfiction
 ---

@@ -4,7 +4,7 @@ description: "I'm the guy you call when you want to disappear. Some call me the 
 date: 2020-02-10
 tags:
   - Two Thousand Twenty Words
-  - September 2020
+  - February 2020
   - Story
 ---
 
