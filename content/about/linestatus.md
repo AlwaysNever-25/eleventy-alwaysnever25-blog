@@ -20,5 +20,5 @@ A series of writing I made that I didn't end up putting as a LINE Status, either
 {% include "postslist.njk" %}
 
 # offLINE Series Archive
-{% set postslist = collections.offLINE %}
-{% include "postslist.njk" %}
+{% set postslist2 = collections.offLINE %}
+{% include "postlist2.njk" %}
