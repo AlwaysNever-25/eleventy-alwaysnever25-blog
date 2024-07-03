@@ -1,5 +1,5 @@
 ---
-title: Day 20 of the Eighth Month
+title: Descent Into Pigstep
 description: ...where 2021 Al write... something... inspired by the Minecraft Soundtrack 'pigstep'.
 date: 2021-09-07
 tags:

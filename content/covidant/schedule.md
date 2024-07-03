@@ -1,5 +1,5 @@
 ---
-title: Day 7 of the Seventh Month
+title: Schedule
 description: ...where 2021 Al share his schedule and pushes on with his life.
 date: 2021-07-15
 tags:
