@@ -12,7 +12,11 @@ This game wants me to play them again religiously so bad...
 
 -----
 
-🎵[Laura Shigihara - When You Wake Up](https://www.youtube.com/watch?v=SGnxRXG9lQ8)🎵
+🎵
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SGnxRXG9lQ8?si=Kad9VsCOdhSIP-pN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+🎵
 
 -----
 
